@@ -1,4 +1,4 @@
-PostWing# 🚀 PostWing - All-in-One Social Media Manager
+🚀 PostWing - All-in-One Social Media Manager
 
 PostWing is a powerful social media management app designed to help creators, businesses, and marketers publish and manage content across **Facebook, Instagram, TikTok, and YouTube** from a single dashboard.
 
